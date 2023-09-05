@@ -8,7 +8,6 @@
 
 ---
 
-
 <p align="center">Welcome to the "Natural Language Projects" repository! Dive into the future of NLP with our collection of cutting-edge projects. Whether you're a beginner or a seasoned NLP enthusiast, you'll find a galaxy of projects here to elevate your skills.</p>
 
 <div align="center">
@@ -56,17 +55,17 @@
 </div>
 
 
+---
+
 <h2 align="center">🌟 Basic NLP Projects</h2>
 
 <p align="center">Dive into the fundamentals of NLP with these foundational projects:</p>
 
 <table align="center">
-
   <tr>
-  <td><strong><a href="https://github.com/mohd-faizy/NLP_Projects/blob/main/01_Basic_NLP_Projects/01_text_classification">Text Classification</a></strong></td>
-  <td>Classify text into predefined categories, such as news articles, product reviews, or social media posts.</td>
-</tr>
-
+    <td><strong><a href="https://github.com/mohd-faizy/NLP_Projects/blob/main/01_Basic_NLP_Projects/01_text_classification">Text Classification</a></strong></td>
+    <td>Classify text into predefined categories, such as news articles, product reviews, or social media posts.</td>
+  </tr>
   <tr>
     <td><strong>Spam Detection</strong></td>
     <td>Identify spam emails or SMS messages.</td>
@@ -87,7 +86,16 @@
     <td><strong>Question Answering</strong></td>
     <td>Build a system that can answer questions posed in natural language.</td>
   </tr>
+  <!-- Placeholder for future projects -->
+  <tr>
+    <td colspan="2"><strong>More Projects Coming Soon♾️</strong></td>
+  </tr>
 </table>
+
+
+
+---
+
 
 <h2 align="center">🚀 Intermediate NLP Projects</h2>
 
@@ -114,7 +122,17 @@
     <td><strong>Text Similarity</strong></td>
     <td>Measure the similarity between two pieces of text.</td>
   </tr>
+   <!-- Placeholder for future projects -->
+  <tr>
+    <td colspan="2"><strong>More Projects Coming Soon♾️</strong></td>
+  </tr>
 </table>
+
+
+
+---
+
+
 
 <h2 align="center">🌐 Advanced NLP Projects</h2>
 
@@ -177,6 +195,10 @@
     <td><strong>Language Model Fine-Tuning</strong></td>
     <td>Fine-tune pre-trained language models like BERT or GPT for domain-specific tasks, such as financial analysis or scientific document summarization.</td>
   </tr>
+   <!-- Placeholder for future projects -->
+  <tr>
+    <td colspan="2"><strong>More Projects Coming Soon♾️</strong></td>
+  </tr>
 </table>
 
 <h2 align="center">🚀 Getting Started</h2>
@@ -192,3 +214,22 @@
 <p align="center">This repository is open-source and available under the [MIT License](LICENSE). You are free to use the projects for your learning and development.</p>
 
 <p align="center">Happy coding and exploring the future of Natural Language Processing! 🌟</p>
+
+
+
+#### $\color{skyblue}{\textbf{Connect with me:}}$
+
+[<img align="left" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="32px"/>][twitter]
+[<img align="left" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="32px"/>][linkedin]
+[<img align="left" src="https://cdn2.iconfinder.com/data/icons/whcompare-blue-green-web-hosting-1/425/cdn-512.png" width="32px"/>][Portfolio]
+
+[twitter]: https://twitter.com/F4izy
+[linkedin]: https://www.linkedin.com/in/mohd-faizy/
+[Portfolio]: https://mohdfaizy.com/
+
+********************************************************************************************************
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true" width=380px height=200px />
+
+
+
