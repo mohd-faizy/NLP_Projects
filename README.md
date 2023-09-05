@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url-here.com" alt="NLP Logo" width="200">
+  <img src="https://t4.ftcdn.net/jpg/04/18/08/35/360_F_418083570_vOTx6PsEv7fq2brSpYDUhgc30hffMst8.jpg" alt="NLP Logo">
 </p>
 
 <h1 align="center">🚀 Natural Language Processing Projects 🌌</h1>
@@ -8,18 +8,30 @@
 
 <div align="center">
   <a href="https://github.com/mohd-faizy/NLP_Projects/stargazers">
-    <img src="https://img.shields.io/github/stars/YourGitHubUsername/Natural-Language-Projects?style=social" alt="Stars">
+    <img src="https://img.shields.io/github/stars/mohd-faizy/NLP_Projects?style=social" alt="Stars">
   </a>
   <a href="https://github.com/mohd-faizy/NLP_Projects/network/members">
-    <img src="https://img.shields.io/github/forks/YourGitHubUsername/Natural-Language-Projects?style=social" alt="Forks">
+    <img src="https://img.shields.io/github/forks/mohd-faizy/NLP_Projects?style=social" alt="Forks">
   </a>
   <a href="https://github.com/mohd-faizy/NLP_Projects/issues">
-    <img src="https://img.shields.io/github/issues/YourGitHubUsername/Natural-Language-Projects" alt="Issues">
+    <img src="https://img.shields.io/github/issues/mohd-faizy/NLP_Projects" alt="Issues">
   </a>
-  <a href="https://github.com/mohd-faizy/NLP_Projects/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/YourGitHubUsername/Natural-Language-Projects" alt="License">
+  <a href="https://github.com/mohd-faizy/NLP_Projects/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/mohd-faizy/NLP_Projects" alt="License">
   </a>
 </div>
+
+[![author](https://img.shields.io/badge/author-mohd--faizy-red)](https://github.com/mohd-faizy)
+![made-with-Markdown](https://img.shields.io/badge/Made%20with-markdown-blue)
+![Language](https://img.shields.io/github/languages/top/mohd-faizy/NLP_Projects)
+![Platform](https://img.shields.io/badge/platform-jupyter%20labs-blue)
+![Maintained](https://img.shields.io/maintenance/yes/2023)
+![Last Commit](https://img.shields.io/github/last-commit/mohd-faizy/NLP_Projects)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://opensource.com/resources/what-open-source)
+![Stars GitHub](https://img.shields.io/github/stars/mohd-faizy/NLP_Projects)
+[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/mohd-faizy/NLP_Projects)
+![Size](https://img.shields.io/github/repo-size/mohd-faizy/NLP_Projects)
+
 
 <h2 align="center">🌟 Basic NLP Projects</h2>
 
@@ -78,8 +90,6 @@
     <td>Measure the similarity between two pieces of text.</td>
   </tr>
 </table>
-
-<h2 align="center">🌐 Advanced NLP Projects</h2>
 
 <h2 align="center">🌐 Advanced NLP Projects</h2>
 
