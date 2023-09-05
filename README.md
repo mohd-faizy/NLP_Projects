@@ -63,7 +63,7 @@
 <table align="center">
 
   <tr>
-  <td><strong><a href="https://github.com/mohd-faizy/NLP_Projects/blob/main/01_Basic_NLP_Projects/01_text_classification/01_text_classification.ipynb">Text Classification</a></strong></td>
+  <td><strong><a href="https://github.com/mohd-faizy/NLP_Projects/blob/main/01_Basic_NLP_Projects/01_text_classification">Text Classification</a></strong></td>
   <td>Classify text into predefined categories, such as news articles, product reviews, or social media posts.</td>
 </tr>
 
