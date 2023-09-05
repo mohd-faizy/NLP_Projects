@@ -1,8 +1,13 @@
 <p align="center">
-  <img src="https://t4.ftcdn.net/jpg/04/18/08/35/360_F_418083570_vOTx6PsEv7fq2brSpYDUhgc30hffMst8.jpg" alt="NLP Logo">
+  <img src="_img\nlp.jpg" alt="NLP Logo">
 </p>
 
+---
+
 <h1 align="center">🚀 Natural Language Processing Projects 🌌</h1>
+
+---
+
 
 <p align="center">Welcome to the "Natural Language Projects" repository! Dive into the future of NLP with our collection of cutting-edge projects. Whether you're a beginner or a seasoned NLP enthusiast, you'll find a galaxy of projects here to elevate your skills.</p>
 
@@ -19,18 +24,36 @@
   <a href="https://github.com/mohd-faizy/NLP_Projects/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/mohd-faizy/NLP_Projects" alt="License">
   </a>
+    <a href="https://github.com/mohd-faizy/NLP_Projects">
+    <img src="https://img.shields.io/badge/author-mohd--faizy-red" alt="author">
+  </a>
+  <a href="https://img.shields.io/badge/Made%20with-markdown-blue">
+  <img src="https://img.shields.io/badge/Made%20with-markdown-blue" alt="Made with Markdown">
+  <a href="https://img.shields.io/github/languages/top/mohd-faizy/NLP_Projects">
+  <img src="https://img.shields.io/github/languages/top/mohd-faizy/NLP_Projects" alt="Language">
+</a>
+<a href="https://img.shields.io/badge/platform-jupyter%20labs-blue">
+  <img src="https://img.shields.io/badge/platform-jupyter%20labs-blue" alt="Platform">
+</a>
+<a href="https://img.shields.io/maintenance/yes/2023">
+  <img src="https://img.shields.io/maintenance/yes/2023" alt="Maintained">
+</a>
+<a href="https://img.shields.io/github/last-commit/mohd-faizy/NLP_Projects">
+  <img src="https://img.shields.io/github/last-commit/mohd-faizy/NLP_Projects" alt="Last Commit">
+</a>
+<a href="https://opensource.com/resources/what-open-source">
+  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love svg2">
+</a>
+<a href="https://img.shields.io/github/stars/mohd-faizy/NLP_Projects">
+  <img src="https://img.shields.io/github/stars/mohd-faizy/NLP_Projects" alt="Stars GitHub">
+</a>
+<a href="https://github.com/mohd-faizy/NLP_Projects">
+  <img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square" alt="Contributions Welcome">
+</a>
+<a href="https://img.shields.io/github/repo-size/mohd-faizy/NLP_Projects">
+  <img src="https://img.shields.io/github/repo-size/mohd-faizy/NLP_Projects" alt="Size">
+</a>
 </div>
-
-[![author](https://img.shields.io/badge/author-mohd--faizy-red)](https://github.com/mohd-faizy)
-![made-with-Markdown](https://img.shields.io/badge/Made%20with-markdown-blue)
-![Language](https://img.shields.io/github/languages/top/mohd-faizy/NLP_Projects)
-![Platform](https://img.shields.io/badge/platform-jupyter%20labs-blue)
-![Maintained](https://img.shields.io/maintenance/yes/2023)
-![Last Commit](https://img.shields.io/github/last-commit/mohd-faizy/NLP_Projects)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://opensource.com/resources/what-open-source)
-![Stars GitHub](https://img.shields.io/github/stars/mohd-faizy/NLP_Projects)
-[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/mohd-faizy/NLP_Projects)
-![Size](https://img.shields.io/github/repo-size/mohd-faizy/NLP_Projects)
 
 
 <h2 align="center">🌟 Basic NLP Projects</h2>
@@ -38,10 +61,12 @@
 <p align="center">Dive into the fundamentals of NLP with these foundational projects:</p>
 
 <table align="center">
+
   <tr>
-    <td><strong>Text Classification</strong></td>
-    <td>Classify text into predefined categories, such as news articles, product reviews, or social media posts.</td>
-  </tr>
+  <td><strong><a href="">Text Classification</a></strong></td>
+  <td>Classify text into predefined categories, such as news articles, product reviews, or social media posts.</td>
+</tr>
+
   <tr>
     <td><strong>Spam Detection</strong></td>
     <td>Identify spam emails or SMS messages.</td>
@@ -153,7 +178,6 @@
     <td>Fine-tune pre-trained language models like BERT or GPT for domain-specific tasks, such as financial analysis or scientific document summarization.</td>
   </tr>
 </table>
-
 
 <h2 align="center">🚀 Getting Started</h2>
 
