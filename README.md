@@ -1,14 +1,14 @@
+
+
+<h1 align="center">🚀 Natural Language Processing Projects 🌌</h1>
+
+
 <p align="center">
   <img src="_img\nlp.jpg" alt="NLP Logo">
 </p>
 
----
 
-<h1 align="center">🚀 Natural Language Processing Projects 🌌</h1>
 
----
-
-<p align="center">Welcome to the "Natural Language Projects" repository! Dive into the future of NLP with our collection of cutting-edge projects. Whether you're a beginner or a seasoned NLP enthusiast, you'll find a galaxy of projects here to elevate your skills.</p>
 
 <div align="center">
   <a href="https://github.com/mohd-faizy/NLP_Projects/stargazers">
@@ -43,9 +43,6 @@
 <a href="https://opensource.com/resources/what-open-source">
   <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love svg2">
 </a>
-<a href="https://img.shields.io/github/stars/mohd-faizy/NLP_Projects">
-  <img src="https://img.shields.io/github/stars/mohd-faizy/NLP_Projects" alt="Stars GitHub">
-</a>
 <a href="https://github.com/mohd-faizy/NLP_Projects">
   <img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square" alt="Contributions Welcome">
 </a>
@@ -56,6 +53,9 @@
 
 
 ---
+
+<p align="center">Welcome to the "Natural Language Projects" repository! Dive into the future of NLP with our collection of cutting-edge projects. Whether you're a beginner or a seasoned NLP enthusiast, you'll find a galaxy of projects here to elevate your skills.</p>
+
 
 <h2 align="center">🌟 Basic NLP Projects</h2>
 
